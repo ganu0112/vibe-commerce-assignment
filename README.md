@@ -32,5 +32,5 @@ This repo contains a simple full-stack shopping cart assignment:
 ## Notes
 - Uses MySQL for persistence. Spring JPA `ddl-auto=update` will create tables.
 - Simple in-memory product seeding is included.
-- For the assignment, you can record a 1-2 minute demo showing product add/remove and checkout.
+
 
