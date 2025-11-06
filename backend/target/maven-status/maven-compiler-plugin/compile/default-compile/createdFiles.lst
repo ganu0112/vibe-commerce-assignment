@@ -1,0 +1,10 @@
+com\vibecommerce\model\Product.class
+com\vibecommerce\service\ShopService.class
+com\vibecommerce\repo\CartItemRepository.class
+com\vibecommerce\repo\ProductRepository.class
+com\vibecommerce\VibeCommerceApplication.class
+com\vibecommerce\model\CartItem.class
+com\vibecommerce\controller\CartController.class
+com\vibecommerce\controller\ProductController.class
+com\vibecommerce\model\Receipt.class
+com\vibecommerce\DataLoader.class
